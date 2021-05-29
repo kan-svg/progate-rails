@@ -1,4 +1,5 @@
-# README
+# progate-rails
+
 
 【概要】  
 progateのRuby on Railsを自主学習したSNSサービスになります。
