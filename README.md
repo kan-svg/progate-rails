@@ -1,24 +1,19 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+【概要】  
+progateのRuby on Railsを自主学習したSNSサービスになります。
 
-Things you may want to cover:
+【使用技術】  
+・Ruby 2.6.7（フレームワーク：Ruby on Rails）  
+・SQLite3 1.4
 
-* Ruby version
+【機能一覧】  
+・投稿一覧表示機能　　
+・新規投稿作成機能　　
+・投稿編集/削除機能　　
+・投稿データ制限機能(バリデーション)　　
+・ユーザーログイン/ログアウト機能　　
+・ユーザー新規登録機能　　
+・いいね機能　　
+・パスワードハッシュ化機能　　
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
